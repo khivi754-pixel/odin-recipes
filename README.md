@@ -1,1 +1,1 @@
-This is the first proejct I will be doing with the Odin Project. By the end I will have created a recipe webiste with a homepage and links to a few different recipes.
+This is the first project I will be doing with the Odin Project. By the end I will have created a recipe webiste with a homepage and links to a few different recipes.
